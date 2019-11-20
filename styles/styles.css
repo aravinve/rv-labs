@@ -3,3 +3,93 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    font-family: 'Roboto Condensed', sans-serif;
+    user-select: none;
+}
+
+#navbar a{
+    color: #ffffff !important;
+    text-decoration: none;
+    cursor: pointer !important;
+}
+
+#navbar a:visited, #navbar a:hover{
+    text-decoration: none;
+    color: #ffffff !important;
+    cursor: pointer !important;
+}
+
+#products-content-section a{
+    color: #000000 !important;
+    text-decoration: none;
+    cursor: pointer !important;
+}
+
+#products-content-section a:visited, #products-content-section a:hover{
+    text-decoration: none;
+    color: #000000 !important;
+    cursor: pointer !important;
+}
+
+#navbar{
+    width: 100%;
+    border-radius: 4px;
+    border: 2px solid #ffffff;
+    background-color: #1D3461;
+    z-index: 99;
+}
+
+.navbar-fixed{
+    position: fixed !important;
+    top: 0;
+}
+
+#navbar ul li{
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+#navbar ul{
+    padding: 0.75rem;
+}
+
+.navbar-toggler{
+    background-color: #ffffff !important;
+    color: #1D3461 !important;
+}
+
+#central-banner, #footer-banner{
+    width: 100%;
+}
+
+#main-content-section{
+    margin-top: 2rem;
+}
+
+#rv-nav-logo{
+    display: none;
+}
+
+.content-text{
+    font-size: 1.1rem;
+}
+
+#products-content-section .nav-pills .nav-link.active{
+    background-color: #1D3461;
+    color: #ffffff !important;
+}
+
+@media only screen and (max-width: 996px) {
+    #rv-nav-logo{
+        height: 3.5rem;
+        border-radius: 4px;
+        display: block;
+    }
+}
+
+
+
