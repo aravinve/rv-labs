@@ -1,9 +1,5 @@
 $(document).ready(function() {
     $(window).scroll(function () {
-        //if you hard code, then use console
-        //.log to determine when you want the 
-        //nav bar to stick.  
-        console.log($(window).scrollTop())
       if ($(window).scrollTop() > 595) {
         $('#navbar').addClass('navbar-fixed');
       }
@@ -17,11 +13,6 @@ $(document).ready(function() {
       $('body, html').animate({
         scrollTop: ($("#" + e.currentTarget.name).offset().top - 175)
       }, 600);
-   });
-
-   $("#rv-c-form").submit(function(e){
-      e.preventDefault();
-      console.log(e);
    });
 
    $.getJSON("./assets/rv-products.json", function(json){

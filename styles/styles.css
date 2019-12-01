@@ -11,6 +11,10 @@ body{
     user-select: none;
 }
 
+section{
+    margin-top: 1rem;
+}
+
 #navbar a{
     color: #ffffff !important;
     text-decoration: none;
@@ -80,6 +84,10 @@ body{
     color: #1D3461 !important;
 }
 
+.carousel-inner > .carousel-item > img {
+    height:280px;
+  }
+
 .img-center-abs{
     margin-top: 1.5rem;
 }
@@ -90,10 +98,6 @@ body{
 
 #main-content-section{
     margin-top: 2rem;
-}
-
-#rv-nav-logo{
-    display: none;
 }
 
 .content-text{
