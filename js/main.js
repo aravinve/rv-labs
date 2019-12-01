@@ -33,6 +33,7 @@ $(document).ready(function() {
      generateDoubleColTable(aromadata, aromadatabody);
      generateDoubleColTable(researchdata, researchdatabody);
      generateDoubleColTable(aminoacidsdata, aminoacidsdatabody);
+     
    });
 
    generateSingleColTable = (tableData, tableBodyElement) => {
@@ -61,6 +62,6 @@ $(document).ready(function() {
     }
  }
 
-  });
+});
 
   
