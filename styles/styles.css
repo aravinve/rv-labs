@@ -43,6 +43,24 @@ body{
     z-index: 99;
 }
 
+.btn-outline-light{
+    color: #1D3461;
+    background-color:  #ffffff;
+    border-color:  #1D3461;
+}
+
+
+.btn-outline-light:hover, .btn-outline-light:active, .btn-outline-light:focus{
+    color: #fff;
+    background-color:  #1D3461;
+    border-color:  #1D3461;
+}
+
+#c-left-bar{
+    color: #fff;
+    background-color:  #1D3461;
+}
+
 .navbar-fixed{
     position: fixed !important;
     top: 0;

@@ -19,6 +19,11 @@ $(document).ready(function() {
       }, 600);
    });
 
+   $("#rv-c-form").submit(function(e){
+      e.preventDefault();
+      console.log(e);
+   });
+
    $.getJSON("./assets/rv-products.json", function(json){
      const herbaldata = json["rv-products"]["herbal"];
      const aromadata = json["rv-products"]["aroma"];
