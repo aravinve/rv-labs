@@ -62,6 +62,10 @@ body{
     color: #1D3461 !important;
 }
 
+.img-center-abs{
+    margin-top: 1.5rem;
+}
+
 #central-banner, #footer-banner{
     width: 100%;
 }
