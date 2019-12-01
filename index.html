@@ -8,6 +8,7 @@
     />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>RV Labs</title>
+    <link rel="shortcut icon" type="image/png" href="./assets/favicon.png"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
@@ -105,9 +106,10 @@
                 <div class="col-3">
                   <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
                     <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-herbal" role="tab">Herbal Oleoresins</a>
-                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-aroma" role="tab">Aroma Molecules</a>
+                    <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-aroma" role="tab">Aroma Fragrances/Chemicals</a>
                     <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-apis" role="tab">Pharma API's</a>
-                    <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-research" role="tab">Research Chemicals</a>
+                    <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-research" role="tab">Specialty Research Chemicals</a>
+                    <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-aminoacids" role="tab">Protected Amino Acids</a>
                   </div>
                 </div>
                 <div class="col-9">
@@ -119,10 +121,8 @@
                                 <th scope="col">Products</th>
                               </tr>
                             </thead>
-                            <tbody>
-                              <tr>
-                                <td></td>
-                              </tr>
+                            <tbody id="herbal-data-body">
+                              
                             </tbody>
                           </table>
                     </div>
@@ -134,19 +134,8 @@
                                 <th scope="col">CAS No.</th>
                               </tr>
                             </thead>
-                            <tbody>
-                              <tr>
-                                <td>Mark</td>
-                                <td>Otto</td>
-                              </tr>
-                              <tr>
-                                <td>Jacob</td>
-                                <td>Thornton</td>
-                              </tr>
-                              <tr>
-                                <td>Larry the Bird</td>
-                                <td>@twitter</td>
-                              </tr>
+                            <tbody id="aroma-data-body">
+                              
                             </tbody>
                           </table>
                     </div>
@@ -155,22 +144,10 @@
                             <thead>
                               <tr>
                                 <th scope="col">Products</th>
-                                <th scope="col">CAS No.</th>
                               </tr>
                             </thead>
-                            <tbody>
-                              <tr>
-                                <td>Mark</td>
-                                <td>Otto</td>
-                              </tr>
-                              <tr>
-                                <td>Jacob</td>
-                                <td>Thornton</td>
-                              </tr>
-                              <tr>
-                                <td>Larry the Bird</td>
-                                <td>@twitter</td>
-                              </tr>
+                            <tbody id="api-table-body">
+                             
                             </tbody>
                           </table>
                     </div>
@@ -179,25 +156,27 @@
                           <thead>
                             <tr>
                               <th scope="col">Products</th>
-                              <th scope="col">CAS No.</th
+                              <th scope="col">CAS No.</th>
                             </tr>
                           </thead>
-                          <tbody>
-                            <tr>
-                              <td>Mark</td>
-                              <td>Otto</td>
-                            </tr>
-                            <tr>
-                              <td>Jacob</td>
-                              <td>Thornton</td>
-                            </tr>
-                            <tr>
-                              <td>Larry the Bird</td>
-                              <td>@twitter</td>
-                            </tr>
+                          <tbody id="research-data-body">
+                            
                           </tbody>
                         </table>
                   </div>
+                  <div class="tab-pane fade" id="v-pills-aminoacids" role="tabpanel">
+                    <table class="table table-hover">
+                        <thead>
+                          <tr>
+                            <th scope="col">Products</th>
+                            <th scope="col">CAS No.</th>
+                          </tr>
+                        </thead>
+                        <tbody id="aminoacids-data-body">
+                          
+                        </tbody>
+                      </table>
+                </div>
                   </div>
                 </div>
               </div>
@@ -205,23 +184,6 @@
         <section id="services-content-section">
           <h2><i class="material-icons mr-2">business_center</i>Consultancy Services</h2>
           <hr>
-          <p class="content-text">
-              We are experts in offering consultancy services in the following areas of the Chemical based industries. We have proven technologies for the following projects
-              <ul class="list-group">
-                <li class="list-group-item">
-                    Herbal and Phytochemicals Extractions
-                </li>
-                <li class="list-group-item">
-                    API’s and its Intermediates
-                </li>
-                <li class="list-group-item">
-                    Synthetic Aroma Fragrances/Chemicals
-                </li>
-                <li class="list-group-item">
-                    Specialty Research Chemicals
-                </li>
-              </ul>
-          </p>
           <p class="content-text">
               RV Labs offers turnkey projects and Consultancy services in the areas of design, fabrication, supply, construction, installation, servicing, testing and commissioning of bio projects, keeping the motto “Green Technology- Clean Ecology; Clean Technology Green Ecology”. The company’s areas of expertise are in the fields of Herbal Extraction, Pharmaceuticals, Nutraceuticals etc 
           </p>

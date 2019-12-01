@@ -1,0 +1,364 @@
+﻿{
+  "rv-products": {
+    "herbal": [
+      "Curcumin 80%, 95%",
+      "Forskolin 10%, 20%,40%",
+      "Nutmeg oleoresin",
+      "Chilli oleoresin",
+      "Ginger oleoresin",
+      "Ashwagandha",
+      "Vetiver Oil",
+      "Jasmine Grantiflora",
+      "Jasmine Absolute",
+      "Champaca Absolute",
+      "Garlic Oil",
+      "Turmeric Oil"
+    ],
+    "aroma": [
+      {
+        "name": "Acetyl isoeugenol",
+        "casno": "93-29-8"
+      },
+      {
+        "name": "Allyl amyl glycolate",
+        "casno": "67634-00-8"
+      },
+      {
+        "name": "Allyl Caproate",
+        "casno": "123-68-2"
+      },
+      {
+        "name": "Allyl Phenoxy Acetate",
+        "casno": "7493-74-5"
+      },
+      {
+        "name": "Alpha Damascone",
+        "casno": "24720-09-0"
+      },
+      {
+        "name": "Ambronica (ambroxan)",
+        "casno": "6790-58-5"
+      },
+      {
+        "name": "Benzyl isoeugenol",
+        "casno": "120-11-6"
+      },
+      {
+        "name": "Beta Damascenone",
+        "casno": "23696-85-7"
+      },
+      {
+        "name": "Beta Damascone",
+        "casno": "23726-91-2"
+      },
+      {
+        "name": "Butylozone",
+        "casno": "195251-91-3"
+      },
+      {
+        "name": "Calone (Watermelon ketone)",
+        "casno": "28940-11-6"
+      },
+      {
+        "name": "Cis-3-HexenylTiglate",
+        "casno": "67883-79-8"
+      },
+      {
+        "name": "Citronellyl tiglate",
+        "casno": "24717-85-9"
+      },
+      {
+        "name": "Cyclocitral",
+        "casno": "432-25-7"
+      },
+      {
+        "name": "Evernyl(Rionyl)",
+        "casno": "4707-47-5"
+      },
+      {
+        "name": "Galbador (Cyclogalbanate)",
+        "casno": "68901-15-5"
+      },
+      {
+        "name": "Geranyl Acetate",
+        "casno": "105-87-3"
+      },
+      {
+        "name": "Iso Damascone",
+        "casno": "39872-57-6"
+      },
+      {
+        "name": "Iso Mohanol",
+        "casno": "68480-04-6"
+      },
+      {
+        "name": "Karnal",
+        "casno": "117933-89-8"
+      },
+      {
+        "name": "Methoxy melonal",
+        "casno": "62439-41-2"
+      },
+      {
+        "name": "Methyl Tiglate",
+        "casno": "6622-76-0"
+      },
+      {
+        "name": "Mohanol (Ebanol)",
+        "casno": "67801-20-1"
+      },
+      {
+        "name": "N-Phthaloyl-l- glutamic anhydride",
+        "casno": "25830-77-7"
+      },
+      {
+        "name": "Ethyl Safranate (Oriental Ester)",
+        "casno": "35044-57-6"
+      },
+      {
+        "name": "Ospirane (Theaspirane)",
+        "casno": "36431-72-8"
+      },
+      {
+        "name": "Safranal Pure (Non Bromine route)",
+        "casno": "116-27-7"
+      },
+      {
+        "name": "Safranal (Bromine route)",
+        "casno": "116-27-7"
+      }
+    ],
+    "pharmaapi": [
+      "Iron Sucrose",
+      "Enoxaparin Sodium",
+      "Hydrocortisone Hemisuccinate",
+      "Heparin Sodium",
+      "Medroxy Progestone Acetate (MPA)",
+      "Testosterone Acetate",
+      "Testosterone Propionate",
+      "Testosterone Deconate",
+      "Pioglitazone",
+      "Atenelol",
+      "Clopidogrel bisulfate",
+      "Quetiapine Fumarate",
+      "Sodium Phenyl Butyrate",
+      "Clodronate Sodium",
+      "Cisatracurium besylate",
+      "Atovaquone",
+      "Chromium Picolinate",
+      "Ferric Citrate",
+      "Buspirone Hydrochloride",
+      "Ethisterone",
+      "Bezafibrate",
+      "Cycloserine",
+      "Sulphazine",
+      "Felodipine",
+      "Lacidipine",
+      "Glycopyrrolate",
+      "Aceclofenac",
+      "Nateglinide",
+      "Chlorhexidine",
+      "Itopride Hydrochloride",
+      "Venlafaxine Hydrochloride",
+      "Fluoxetin Hydrochloride",
+      "Aripiperazole",
+      "Indapamide",
+      "Chlorophensin carbamate",
+      "Chlorthalidone",
+      "Phenibut",
+      "Chlorsulon",
+      "Ambroxol",
+      "6-methylene androst-4-ene-3,17-dione",
+      "6-Methylpicolinic acid",
+      "6-MethylUracil",
+      "TOH & TCH (Tetra oxy homopurine)",
+      "1,2-Dimethyl-2-thiopseudourea hydroiodide",
+      "Benziodorone",
+      "Thioridazine",
+      "Doxazocin intermediate",
+      "Clindamycin phosphate",
+      "Dibenzo 18-crown-6",
+      "18-Crown-6"
+    ],
+    "research": [
+      {
+        "name": "Cyclopropylpiperazine",
+        "casno": "20327-23-5"
+      },
+      {
+        "name": "2-(2-Nitroethoxy) Tetrahydropyran",
+        "casno": "75233-61-3"
+      },
+      {
+        "name": "1-(2-Aminoethyl) Pyrrrolidine",
+        "casno": "7154-73-6"
+      },
+      {
+        "name": "2-Bromo-6-Flourobenzaldehyde",
+        "casno": "360575-28-6"
+      },
+      {
+        "name": "2-Methlpentanol",
+        "casno": "105-30-6"
+      },
+      {
+        "name": "N-Acetyl-L-Tyrosine",
+        "casno": "537-55-3"
+      },
+      {
+        "name": "3-N-BUTYL-2,4-PENTANEDIONE",
+        "casno": "1540-36-9"
+      },
+      {
+        "name": "1-Amino-2-Methylindoline Hydrochloride",
+        "casno": "102789-79-7"
+      },
+      {
+        "name": "6-Methylpyridine-2-Carboxylic Acid",
+        "casno": "934-60-1"
+      },
+      {
+        "name": "Methyl-3-Aminocrotonate",
+        "casno": "14205-39-1"
+      },
+      {
+        "name": "Ethyl-3-Aminocrotonate",
+        "casno": "626-34-6"
+      },
+      {
+        "name": "6-Methyluracil",
+        "casno": "626-48-2"
+      },
+      {
+        "name": "Diacetone-D-Glucose",
+        "casno": "582-52-5"
+      },
+      {
+        "name": "Monoacetone-D-Glucose",
+        "casno": "18549-40-1"
+      },
+      {
+        "name": "3-Hydroxy-1-Methylpyrrolidine",
+        "casno": "13220-33-2"
+      },
+      {
+        "name": "4-Bromobenzothiophene Tech ",
+        "casno": "5118-13-8"
+      },
+      {
+        "name": "1-Flouronaphthalene",
+        "casno": "321-38-0"
+      },
+      {
+        "name": "1,2-Dimethyl-2-Thiopseudourea Hydroiodide",
+        "casno": "41306-45-0"
+      },
+      {
+        "name": "6-Methyl-2-Pyridinecarboxylic Acid Methyl Ester",
+        "casno": "39640-51-2"
+      },
+      {
+        "name": "7-Bromobenzothiophene",
+        "casno": "1423-61-6"
+      },
+      {
+        "name": "5-Bromobenzothiophene",
+        "casno": "4923-87-9"
+      },
+      {
+        "name": "2,5-Dimethylbenzaldehyde",
+        "casno": "5779-94-2"
+      },
+      {
+        "name": "1-Formylpiperazine",
+        "casno": "7755-92-2"
+      },
+      {
+        "name": "4-Chlorophenylmethylsulphone",
+        "casno": "98-57-7"
+      },
+      {
+        "name": "Sodium Toluene-P-Sulphinate",
+        "casno": "824-79-3"
+      }
+    ],
+    "aminoacids": [
+      {
+        "name": "L-Valine methyl ester hydrochloride",
+        "casno": "6306-52-1"
+      },
+      {
+        "name": "L-Phenylalanine methyl ester hydrochloride",
+        "casno": "7524-50-7"
+      },
+      {
+        "name": "L-Histidine methylester. Dihydrochloride",
+        "casno": "7389-87-9"
+      },
+      {
+        "name": "4-Nitro-L-Phenylalanine methyl ester hydrochloride",
+        "casno": "17193-87-9"
+      },
+      {
+        "name": "CBZ-L-valine",
+        "casno": "1149-26-4"
+      },
+      {
+        "name": "CBZ-L-phenylalanine",
+        "casno": "1161-13-3"
+      },
+      {
+        "name": "CBZ-L-threonine",
+        "casno": "19728-63-3"
+      },
+      {
+        "name": "BOC-L-alanine",
+        "casno": "5671-38-3"
+      },
+      {
+        "name": "BOC-D-alanine",
+        "casno": "7764-95-6"
+      },
+      {
+        "name": "BOC-L-phenylalanine",
+        "casno": "13734-34-3"
+      },
+      {
+        "name": "BOC-L-tryptophan",
+        "casno": "13139-14-5"
+      },
+      {
+        "name": "FMOC-L-valine",
+        "casno": "68858-20-8"
+      },
+      {
+        "name": "FMOC-L-proline",
+        "casno": "71989-31-6"
+      },
+      {
+        "name": "FMOC-D-proline",
+        "casno": "101555-62-8"
+      },
+      {
+        "name": "BOC-L-threonine",
+        "casno": "2592-18-9"
+      },
+      {
+        "name": "BOC-L-serine",
+        "casno": "3262-72-4"
+      },
+      {
+        "name": "FMOC-L-serine",
+        "casno": "73724-45-5"
+      },
+      {
+        "name": "FMOC-L-threonine",
+        "casno": "73731-37-0"
+      },
+      {
+        "name": "N-acetyl-L-glutamicacid",
+        "casno": "1188-37-0"
+      }
+    ]
+  }
+}
